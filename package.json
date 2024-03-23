@@ -18,7 +18,7 @@
     "stream-cache": "~0.0.1",
     "strip-ansi": "^3.0.0",
     "supports-color": "^3.1.1",
-    "webpack-dev-middleware": "^1.2.0"
+    "webpack-dev-middleware": "^5.3.4"
   },
   "devDependencies": {
     "css-loader": "~0.18.0",
